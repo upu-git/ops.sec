@@ -99,13 +99,6 @@
 44.227.27.164
 35.84.99.9
 
-## F5 Bot Defense
-
-ibd-webus.fastcache.net
-ibd-webemea.fastcache.net
-ibd-webapac.fastcache.net
-ibd-webemea2.fastcache.net
-
 ## Data Intelligence
 
 ## IP addresses used with the US region
